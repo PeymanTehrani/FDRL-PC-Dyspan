@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 28 11:50:29 2018
-data formulation: (s[i], a[i], r[i])
-@author: mengxiaomao
-"""
+
 from collections import deque
 import random
 
