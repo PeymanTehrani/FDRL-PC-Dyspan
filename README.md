@@ -31,9 +31,9 @@ Value Badesed DRL, DQN:
 
 `Experience_replay.py`: Exprience replar buffer class for DQN agent.
 
-'main_dqn.py': Centrelized Deep Q Learning main file.
+`main_dqn.py`: Centrelized Deep Q Learning main file.
 
-'main_dqn_multiagent.py': Federated and Distributed multi agent Deep Q Learning main file.
+`main_dqn_multiagent.py`: Federated and Distributed multi agent Deep Q Learning main file.
 
 
 
