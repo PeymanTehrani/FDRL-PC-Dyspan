@@ -3,7 +3,8 @@ Federated Deep Reinforcement Learning for the Distributed Control of NextG Wirel
 
 This repository contains the entire code for our work "Federated Deep Reinforcement Learning for the Distributed Control of NextG Wireless Networks" and has been
  accepted for presentation in IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2021.
- https://arxiv.org/abs/2112.03465
+ You can find the paper here:
+https://arxiv.org/abs/2112.03465
  
 
 
@@ -21,9 +22,11 @@ Environment and benchmarks:
 
 `Benchmark_alg.py`: bench mark class which contains 4 algorithms: WWMSE, FP, random and maxpower.
 
-`Benchmark_test.py`: testing the benchmarh performance in an environment.
+`Benchmark_test.py`: testing the benchmark performance in an environment.
 
 
+The wireless Environment simulator and Banchmark algorithms were taken from this repository:
+https://github.com/mengxiaomao/PA_TWC
 
 Value Badesed DRL, DQN:
 
