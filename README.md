@@ -3,6 +3,8 @@ Federated Deep Reinforcement Learning for the Distributed Control of NextG Wirel
 
 This repository contains the entire code for our work "Federated Deep Reinforcement Learning for the Distributed Control of NextG Wireless Networks" and has been
  accepted for presentation in IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN) 2021.
+ https://arxiv.org/abs/2112.03465
+ 
 
 
 # Requirements
